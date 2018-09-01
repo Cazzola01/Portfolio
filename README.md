@@ -1,2 +1,2 @@
-# Stuff
-I will upload my projects that I have done over the years here
+# I am Marcus Cazzola, a student at Stockholm Science and Innorvation School
+You can find my projects in my <a>Wiki<a/>
